@@ -1,0 +1,11 @@
+spring:
+  main:
+    allow-circular-references: true
+
+
+person:
+  sex: male
+
+animal:
+  name: cat
+
